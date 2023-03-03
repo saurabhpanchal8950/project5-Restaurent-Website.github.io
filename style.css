@@ -55,6 +55,11 @@ nav {
   flex-direction: column;
   gap: 20px;
 }
+.hero_content .tag {
+  font-size: x-large;
+  align-self: flex-start;
+  background-color: #149f37;
+}
 .tag button {
   font-size: x-large;
   background-color: #149f37;
