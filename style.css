@@ -57,6 +57,7 @@ nav {
 }
 .hero_content .tag {
   font-size: x-large;
+  padding: 12px;
   align-self: flex-start;
   background-color: #149f37;
 }
@@ -100,7 +101,7 @@ nav {
   width: 72px;
 }
 .features:hover {
-  transform: scale(1.05);
+/*   transform: scale(1.05); */
   transition: 0.2s ease-in-out;
 }
 
